@@ -1,0 +1,17 @@
+./cylinder_01/Sample/resized/linner24.jpg
+./cylinder_01/Sample/resized/linner32.jpg
+./cylinder_01/Sample/resized/linner35.jpg
+./cylinder_01/Sample/resized/linner20.jpg
+./cylinder_01/Sample/resized/linner23.jpg
+./cylinder_01/Sample/resized/linner22.jpg
+./cylinder_01/Sample/resized/linner36.jpg
+./cylinder_01/Sample/resized/linner33.jpg
+./cylinder_01/Sample/resized/linner21.jpg
+./cylinder_01/Sample/resized/linner30.jpg
+./cylinder_01/Sample/resized/linner27.jpg
+./cylinder_01/Sample/resized/linner25.jpg
+./cylinder_01/Sample/resized/linner26.jpg
+./cylinder_01/Sample/resized/linner28.jpg
+./cylinder_01/Sample/resized/linner29.jpg
+./cylinder_01/Sample/resized/linner31.jpg
+./cylinder_01/Sample/resized/linner34.jpg

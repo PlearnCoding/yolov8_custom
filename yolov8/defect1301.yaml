@@ -1,0 +1,12 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: datasets/defect_1301/images/train
+val: datasets/defect_1301/images/val
+test: 
+
+#is_coco: False
+# number of classes
+nc: 8
+
+# class names
+names: ['Dent','PinHole','Gas','Slag','Shrinkage','SandDrop','SandBroken','Other']
+

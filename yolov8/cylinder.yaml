@@ -1,0 +1,11 @@
+path: cylinder_01    #(dataset directory path)
+train: train/images #(Complete path to dataset train folder)
+test:  #(Complete path to dataset test folder) 
+val: valid/images #(Complete path to dataset valid folder)
+
+#Classes
+nc: 1 # replace according to your number of classes
+
+#classes names
+#replace all class names list with your classes names
+names: ['cyl']

@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ../datasets-knuckle/images/train
+val: ../datasets-knuckle/images/val
+test: 
+
+# number of classes
+nc: 2
+
+# class names
+names: ['nk-lh','nk-rh']

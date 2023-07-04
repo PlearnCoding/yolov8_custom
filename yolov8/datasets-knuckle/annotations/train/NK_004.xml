@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>NK_004.jpg</filename>
+	<path>D:\UserProfile\Users\anan.kh\Desktop\Sample\RH\resized\NK_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abs-rh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>140</ymin>
+			<xmax>1272</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>

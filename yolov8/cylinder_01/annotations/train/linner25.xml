@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>linner25.jpg</filename>
+	<path>/home/attg/MyCoding/cylinder_01/Sample/resized/linner25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cylinder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>216</ymin>
+			<xmax>910</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+</annotation>
